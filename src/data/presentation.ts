@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Fy's Garden 🌱",
   // profile: "/profile.webp",
   description:
-    "Greetings, and welcome in my *garden*. I'm Ben // Fyxren, a *hobbyist* from the *Netherlands*. In my garden you'll find a collection of my *projects*, *thoughts* and *ideas*.",
+    "Greetings, and welcome to my *garden*. I'm Ben // Fyxren, a *hobbyist* from the *Netherlands*. In my garden you'll find a collection of my *projects*, *thoughts* and *ideas*.",
   socials: [
     {
       label: "Fyxren.com",
